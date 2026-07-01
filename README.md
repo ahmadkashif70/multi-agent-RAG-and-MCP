@@ -20,7 +20,7 @@ The project builds a knowledge base from a research PDF, applies different chunk
 - Azure OpenAI
 - Model Context Protocol (MCP)
 
-## Resume-Friendly Summary
+## Summary
 
 This project highlights experience with:
 - Building retrieval-augmented generation systems
